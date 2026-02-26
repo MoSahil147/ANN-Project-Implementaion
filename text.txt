@@ -1,0 +1,4 @@
+ANN is a layered machine learning model that learns patterns using interconnected artificial neurons.
+
+TensorFlow is the engine.
+Keras is the user friendly interface
