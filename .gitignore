@@ -1,2 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+
+# Course material
 /course
-/venv
+
+# Model artifacts
+*.pkl
+*.h5
+onehot_encoder_geo
+
+# TensorBoard logs
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+main.py
